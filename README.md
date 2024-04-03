@@ -1,2 +1,2 @@
 # El-faro
-sitio html evaluacion suativa
+sitio html evaluacion sumativa
